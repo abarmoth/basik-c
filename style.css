@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+header a{
+    text-decoration: none;
+    color: rgb(165, 248, 250);
+    font-family:  "Sedan SC", serif;
+    font-size: 22px;
+    margin-right: 10px;
+}
+header{
+    background-color: black;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.paris{
+background-color: #490278;
+padding: 30px;
+}
+.card{
+border: 3px dotted palevioletred;
+}
+.spain{
+background-color: #F7CF68;
+padding: 30px;
+}
+.plain{
+background-color: black;
+padding: 30px;
+}
+.card2{
+border: #F7CF68 double 3px;
+}
+.card3{
+border: black solid 3px;
+}
+.obloshka{
+background-image: url("obloshka2.jpg");
+padding-top: 200px;
+padding-bottom: 200px;
+background-size: cover;
+}
+h1{
+font-size: 80px;
+text-align: center;
+margin-bottom: 10px;
+}
+.tg{
+text-decoration: none;
+background-color: aqua;
+padding: 15px;
+color: darkblue;
+border: dotted 6px limegreen;
+margin-left: 40%;
+}
+.blog{
+font-size: 35px;
+text-align: center;
+background-color: rgba(240, 248, 255, 0.218);
+}
+h2{
+font-size: 30px;
+}
+body{
+    margin: 0px;
+}
+.plane{
+    list-style: url("plaine.png");
+    margin-left: 70px;
+}
+.spain-png{
+    list-style: url("spain.png");
+    margin-left: 40px;
+}
+.paris-png{
+    list-style: url("paris.png");
+    margin-left: 20px;
+}
+.obloshka-png{
+    width: 85px;
+}
+.fail{
+    text-decoration: none;
+    background-color: lime;
+    color: darkblue;
+    border: dotted 4px purple;
+    margin-left: 45px;
+    padding: 5px 10px;
+}
